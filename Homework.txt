@@ -1,11 +1,21 @@
 Name and stuff goes here
 
 1) Briefly describe the purpose of Github.
-
+	Github provides a Web-based graphical interface. It also provides access control 
+	and several collaboration features, such as a wikis and basic task management 
+	tools for every project.
 2) What does a .ignore file do?
-
+	To stop/ignore files in the git repository from being checked into Github
 3) What is the purpose of branching?
-
+	To be able to diverge from the main line of development and continue to do work
+	without messing with that main line. 
 4) What does the revert command do?
-
+	revert command undoes a committed snapshot. But, instead of removing the commit
+	from the project history, it figures out how to undo the changes introduced by the
+	commit and appends a new commit with the resulting content.
 5) What does cloning do?
+	clone command copies an existing Git repository. It has its own history, manages
+	its own files, and is a completely isolated environment from the original
+	repository. Git cloning automatically creates a remote connection called origin
+	pointing back to the original repository. This makes it very easy to interact
+	with a central repository.
