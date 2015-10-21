@@ -1,11 +1,16 @@
-Name and stuff goes here
+Benjamin Donaldson - bdonald2@emich.edu
 
 1) Briefly describe the purpose of Github.
+github is a place to host of site git repositories.  It allows you to use the version management tool git, without creating hosting it locally
 
-2) What does a .ignore file do?
+2) What does a .ignore file do? 
+it is a file that git knows to ignore when looking for changes in a repo
 
 3) What is the purpose of branching?
+branching allows you to create a new version of a file so that you can test or work on things without risking damage to functional code.  Once you have tested a branch you can merge it back into the main branch.
 
 4) What does the revert command do?
+it undoes a commit, but rather than delete it it finds a way to revert it back to state it was in before the commit, thus keeping your revision history intact.
 
 5) What does cloning do?
+cloning downloads and entire repo to a folder on a local machine.
