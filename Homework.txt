@@ -19,3 +19,5 @@ Name and stuff goes here
 	repository. Git cloning automatically creates a remote connection called origin
 	pointing back to the original repository. This makes it very easy to interact
 	with a central repository.
+
+Finish
