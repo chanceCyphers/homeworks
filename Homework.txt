@@ -1,11 +1,23 @@
-Name and stuff goes here
+Alex Hamblen chamblen@emich.edu
 
 1) Briefly describe the purpose of Github.
+Github is a repository site that allows people from all locations to contribute to software projects.
+Only the owner or authorized users can modify the primary repository for a project, but anyone can fork.
+Forked projects can then be submitted to the primary repository for merging if approved.
 
 2) What does a .ignore file do?
+.ignore files set up a list of files/folders for git to ignore, i.e. not include in merges, pulls or fetches.
+Netbeans or Eclipse caches are examples of files/folders you'd want to include in your .ignore.
+However, once a file is tracked, adding it to the .ignore is fucntionally pointless.
 
 3) What is the purpose of branching?
+Branching allows a user to work on a specific part of a project without directly affecting other parts.
+Within a branch, you can make all the changes you want while the live project performs as it normally would.
 
 4) What does the revert command do?
+Revert is used to reverse previous commits, usually faulty ones. The working tree must be clean, meaning no
+modifications from the HEAD commit.
 
 5) What does cloning do?
+Clone copies a repository to a local directory. It also creates remote-tracking branches in the cloned
+repository, forks the cloned repository's active branch and checks out the fork.
