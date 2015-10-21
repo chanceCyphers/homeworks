@@ -1,11 +1,20 @@
-Name and stuff goes here
+Guri Zejnullahi
 
 1) Briefly describe the purpose of Github.
+Github is a repository service.  People use it to keep their code safe, and so many
+people can work on the same project without any problems.
 
 2) What does a .ignore file do?
+The .ignore file will ignore certain things (which you tell it to) when you commit to
+the repository.
 
 3) What is the purpose of branching?
+The purpose of branching is so that you can deviate off of the project without ruining the
+entire project. 
 
 4) What does the revert command do?
+When you commit something you didn't want to, the revert command will do a commit undoing
+everything you just did, bringing the state of your repository to the one before.
 
 5) What does cloning do?
+It clones the repository to your own computer.
