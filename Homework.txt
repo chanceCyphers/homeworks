@@ -1,11 +1,16 @@
-Name and stuff goes here
+Zane Wonsey
 
 1) Briefly describe the purpose of Github.
+	Open source collaboration
 
 2) What does a .ignore file do?
+	makes git ignore the file
 
 3) What is the purpose of branching?
+	So you can work on something for the main project separately
 
 4) What does the revert command do?
+	undoes a commited snapshot
 
 5) What does cloning do?
+	create a branch
